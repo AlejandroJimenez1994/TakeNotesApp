@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TakeNotesApp</string>
+    <string name="delete_notes">Delete notes</string>
+    <string name="filter">Filter: Last edited</string>
+    <string name="change_view">Change view</string>
+    <string name="search">Search</string>
+    <string name="titleList">Title</string>
+    <string name="hint_date">Last time edited</string>
+    <string name="hint_header">Header</string>
+    <string name="Descrip">Description</string>
+    <string name="btn_addNote">Add</string>
+    <string name="add_note">Add a note!</string>
+    <string name="created_hint">Create on</string>
+    <string name="delete_note_detail">Delete</string>
+    <string name="add_photo">Add photo</string>
+    <string name="note_image">Note Image</string>
+    <string name="search_hint">Search notes...</string>
+</resources>
